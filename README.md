@@ -1,2 +1,2 @@
-# SistemaGestaoMembros
-Sistema Boas Novas Produção
+# BoasNovas
+Projeto Igreja Boas Novas
